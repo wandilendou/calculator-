@@ -1,2 +1,4 @@
 # calculator 
-learning java script by creating a calculator app
+created a basic calculator 
+learning java script
+
